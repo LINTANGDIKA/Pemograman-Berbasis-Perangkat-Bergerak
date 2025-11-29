@@ -1,0 +1,7 @@
+{
+  "name": ".\\DataCrypto\\",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
