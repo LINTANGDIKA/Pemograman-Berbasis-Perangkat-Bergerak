@@ -1,7 +1,0 @@
-{
-  "name": ".\\Crypto\\",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
